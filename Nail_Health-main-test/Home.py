@@ -6,7 +6,7 @@ st.set_page_config(page_title = 'Nail Health',
 # st.subheader('_Yolo for nail health_')
 st.write("# Welcome to Nail Health! 👋")
 st.balloons()
-# About
+# About project
 st.markdown("""
             ##### This project aims to provide classification results on the different types of nail diseases. Overall, we have compiled a list of 10 nail diseases as per the WHO approved clinical diseases for nails. They are as follows;  
             """)
